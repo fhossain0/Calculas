@@ -157,3 +157,9 @@ Lets take two points on the interval and now we are gonna use that interval for 
 
 ![Google Drive Image](https://drive.google.com/uc?export=view&id=1jkj0mlkq8lI9wUv0NwE9yD6e4SJOzN7z)
 
+After reducing the choise and makeing it so so close we can say that time between two. So we find a tengent line, this measure of how fast the distance is changing with respact of time. called the instantaneous rate of change and it is the slope of that tengent line, the instantaneous rate of change is a measure of how fast the reletionship between two variable is changing at any point of time 
+
+So we got tiny tiny distance (dx) at tiny tiny interval of time (dt) This is the Instantaneous rate of change, and this d called the derivative. The derivative of a function at a point is precisely the slope of the tangent at that particular point. 
+
+
+
