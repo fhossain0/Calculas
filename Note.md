@@ -140,5 +140,6 @@ slope = \frac{170m - 155m}{13s- 12s}
 $$
 
 $$
-slope = frac{1s}
+slope = 1s
 $$
+**Finar the interval better the estimates**
