@@ -131,4 +131,4 @@ $$
 
 ![Google Drive Image](https://drive.google.com/uc?export=view&id=11pvwshOiAIpQndXL0Q4LaQnejkfVwPu8)
 
-
+**So we can state that the velocity of that car is 16 m per second**
