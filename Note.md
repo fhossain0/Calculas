@@ -218,5 +218,8 @@ $$
 slopeAtApoint= \frac{dx}{dt}
 $$
 
-**d is for derivatetive which is Instantaneous rate of change or we can call it Instantaneous velocity**
+**(d) is for derivatetive which is Instantaneous rate of change or we can call it Instantaneous velocity**
 
+
+
+![Google Drive Image](https://drive.google.com/uc?export=view&id=1F4asi-pwTSTCFtK-5MMolmeMOXlSGR6a)
