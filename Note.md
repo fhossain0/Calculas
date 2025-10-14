@@ -192,3 +192,5 @@ In total there are five points where the car was stopped.
 
 Now quesxtion is at what time was the car was farthest fromn its starting point, it is 10 because it was on maximum speed.
 
+The point where the car is the farthest is a point where the car is not moving. That means if you want to find the maximum or the minimum in a function, it occurs at one of the points where the derivative is zero. Or in other words, where the tangent line is horizontal. 
+
