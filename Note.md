@@ -215,7 +215,7 @@ $$
 And the slope of a tengent of a point 
 
 $$
-slope at a point= \frac{dx}{dt}
+slope_at_a_point= \frac{dx}{dt}
 $$
 
 **d is for derivatetive which is Instantaneous rate of change or we can call it Instantaneous velocity**
