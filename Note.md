@@ -120,3 +120,9 @@ $$
 | **গড় পরিবর্তনের হার** | দুই পয়েন্টের মধ্যে পরিবর্তন |
 | **সর্বক্ষণিক পরিবর্তনের হার** | একক মুহূর্তে পরিবর্তন |
 | **ডেরিভেটিভ** | Tangent line-এর slope = Instantaneous rate of change |
+
+### The average velocity between the time interval is also that join two points in the grapgh which is calculated by 
+
+$$
+slope = \frac{rise}{run}
+$$
