@@ -188,4 +188,7 @@ Wo where is the velocity is zero ? it is actually at any point where the tengent
 ![Google Drive Image](https://drive.google.com/uc?export=view&id=1HIDBMIDo4fIONc7GUanQpGMbvuERJXKx)
 
 
+In total there are five points where the car was stopped.
+
+Now quesxtion is at what time was the car was farthest fromn its starting point, it is 10 because it was on maximum speed.
 
