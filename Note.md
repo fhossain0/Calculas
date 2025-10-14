@@ -194,3 +194,13 @@ Now quesxtion is at what time was the car was farthest fromn its starting point,
 
 The point where the car is the farthest is a point where the car is not moving. That means if you want to find the maximum or the minimum in a function, it occurs at one of the points where the derivative is zero. Or in other words, where the tangent line is horizontal. 
 
+# Expression of the derivatives or notations of the derivatives
+
+First lets recall that the slope was calculated as the change in distance over 
+
+$$
+slope= \frac{Change in distance}{change in time}
+$$
+
+
+
