@@ -175,3 +175,17 @@ $$
 slope = 0m/s
 $$
 
+Now we are gonna talk about 
+# Maxima, minima
+
+If we drive a car and the car is going, suddenly it stopped and again it start agian stoped again start so there will be a grapgh like this. 
+
+![Google Drive Image](https://drive.google.com/uc?export=view&id=1nkxqOGfSyHg4Qyyu3_VeR4HmFL9Bs_vt)
+
+Wo where is the velocity is zero ? it is actually at any point where the tengent is horizontal, those are the point where the car was stopped 
+
+
+![Google Drive Image](https://drive.google.com/uc?export=view&id=1HIDBMIDo4fIONc7GUanQpGMbvuERJXKx)
+
+
+
