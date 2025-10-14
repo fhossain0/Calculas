@@ -207,6 +207,7 @@ or
 $$
 slope= \frac{∆x}{∆t}
 $$
+
 **∆ is delta sign**
 
 
