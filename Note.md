@@ -126,3 +126,8 @@ $$
 $$
 slope = \frac{rise}{run}
 $$
+
+**This formula we can say that rise over run**
+
+[Open Google Drive File](https://drive.google.com/uc?export=view&id=11pvwshOiAIpQndXL0Q4LaQnejkfVwPu8)
+
