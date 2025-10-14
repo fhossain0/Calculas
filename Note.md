@@ -140,5 +140,5 @@ slope = \frac{170m - 155m}{13s- 12s}
 $$
 
 $$
-slope = \frac{1s}
+slope = \frac{}{1s}
 $$
