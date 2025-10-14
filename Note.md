@@ -1,6 +1,7 @@
 
 
 
+
 # 🧭 ডেরিভেটিভ ও সর্বক্ষণিক পরিবর্তনের হার (Instantaneous Rate of Change)
 
 ## 🔹 ডেরিভেটিভ কি?
@@ -144,3 +145,15 @@ slope = 1s
 $$
 
 **Finar the interval better the estimates**
+
+# Derivatives and tangents 
+
+## The question is what is the Instantaneous velocity at that point ?
+
+Calculating the Instantaneous velocity is hard but estimating is possible.
+Lets take two points on the interval and now we are gonna use that interval for finding the average velocity between two points 
+
+![Google Drive Image](https://drive.google.com/uc?export=view&id=1U1zXh84EzQk5n4hWYHJZaasMwKwNP2Cv)
+
+![Google Drive Image](https://drive.google.com/uc?export=view&id=1jkj0mlkq8lI9wUv0NwE9yD6e4SJOzN7z)
+
