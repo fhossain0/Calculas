@@ -161,5 +161,14 @@ After reducing the choise and makeing it so so close we can say that time betwee
 
 So we got tiny tiny distance (dx) at tiny tiny interval of time (dt) This is the Instantaneous rate of change, and this d called the derivative. The derivative of a function at a point is precisely the slope of the tangent at that particular point. 
 
+# Slope, maxima and minima
+## Zero slope
+
+The line which form a zero slop is horizontal line 
+
+see the picture 
+
+![Google Drive Image](https://drive.google.com/uc?export=view&id=1e_Aaur683WtGPRblF-zvvq_xWj-kXCus)
+
 
 
