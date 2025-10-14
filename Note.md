@@ -132,3 +132,9 @@ $$
 ![Google Drive Image](https://drive.google.com/uc?export=view&id=11pvwshOiAIpQndXL0Q4LaQnejkfVwPu8)
 
 **So we can state that the velocity of that car is 16 m per second**
+
+Can we find a good estimate of the velocity of the car at time t= 12.5 seconds using this data ? yes we can but we need more data profind measurement like, but not exactly, we can better guss then previous one taking t= 12, and 13 and there meters (Distances), using the smae formula 
+
+$$
+slope = \frac{170m - 155m}{13s- 12s}
+$$
