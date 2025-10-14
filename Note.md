@@ -199,8 +199,16 @@ The point where the car is the farthest is a point where the car is not moving. 
 First lets recall that the slope was calculated as the change in distance over 
 
 $$
-slope= \frac{Change in distance}{change in time}
+slope= \frac{Change_in_distance}{change_in_time}
 $$
+
+or 
+
+$$
+slope= \frac{∆x}{∆t}
+$$
+**∆ is delta sign**
+
 
 
 
